@@ -2,8 +2,7 @@
 
 _Web Developer @ [North American Fulfillment Inc](https://nafulfillment.com)_
 
-
-[![leng-yang-811036156](https://img.shields.io/badge/leng--yang--811036156-0077B5?style=for-the-badge)](https://www.linkedin.com/in/leng-yang-811036156)
+[![leng-yang-811036156](https://img.shields.io/badge/Let's%20Connect!-0077B5?style=for-the-badge)](https://www.linkedin.com/in/leng-yang-811036156)
 
 ## 💻 My Tech Stack
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
